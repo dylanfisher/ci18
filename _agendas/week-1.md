@@ -22,7 +22,7 @@ date_range:       1/23 – 1/26
   experimenting with basic HTML tags. Practice changing the file, committing it
   with a message, and pushing the changes to GitHub.
 - Everyone should come to class on Week 2 with several additional commits logged.
-- Read and/or review the following pages from w3schools. There will be a timed quiz next week that tests your knowledge of the concepts outlined in these pages.
+- Read and/or review the following pages from w3schools. There will be a <strong>timed quiz</strong> next week that tests your knowledge of the concepts outlined in these pages.
   - [Introduction](https://www.w3schools.com/html/html_intro.asp)
   - [Text editors](https://www.w3schools.com/html/html_editors.asp)
   - [Basic examples](https://www.w3schools.com/html/html_basic.asp)
