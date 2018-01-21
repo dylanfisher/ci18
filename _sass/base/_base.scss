@@ -2,7 +2,7 @@ html {
   @include font-regular;
   font-style: normal;
   box-sizing: border-box;
-  background-color: $pink;
+  background-color: $site-background-color;
 
   @include breakpoint(sm) {
     text-rendering: optimizeLegibility;

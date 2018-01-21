@@ -72,7 +72,7 @@
 }
 
 .mobile-footer {
-  background: $light-pink;
+  background: $hover-accent-color;
 
   .footer {
     position: static;
@@ -277,7 +277,7 @@ $pupil-size: 30%;
 }
 
 .page-footer {
-  background-color: $light-pink;
+  background-color: $hover-accent-color;
   padding-bottom: $line-height;
 }
 
@@ -359,7 +359,7 @@ li.agenda {
 
 a.agenda__row {
   &:hover {
-    background-color: $light-pink;
+    background-color: $hover-accent-color;
   }
 }
 

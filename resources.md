@@ -17,12 +17,17 @@ pwd            # shows the path of the current folder you are in
 
 ```bash
 git status              # shows the status of your git repo
-git add -A              # add the changes you want to commit
+git add .               # add the changes you want to commit
 git commit -m 'message' # commit your changes with a message
 git push                # transfers the files to GitHub
 ```
 
 ---
+
+### Syllabi
+
+- [Studio](#TODO)
+- [Lab](#TODO)
 
 ### Programming
 
@@ -89,8 +94,3 @@ git push                # transfers the files to GitHub
 - [Sidebar daily design links](http://sidebar.io/)
 - [Copy Paste Character](http://www.copypastecharacter.com/)
 - [But Does it Float](http://butdoesitfloat.com/)
-
-### Syllabi
-
-- [Studio](https://docs.google.com/document/d/1-LIN4FORlRYX5_45RADrhr3LfToIexXmyZGbMISJmYE)
-- [Lab](https://docs.google.com/document/d/1gNgvpofgndUoILYK-CrLcgBZLtCq0qO_rVvKqQA0Q3I)
