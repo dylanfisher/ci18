@@ -1,0 +1,16 @@
+<header class="header">
+  <nav class="nav">
+    <ul class="list--blank">
+      <li class="nav__header"><a href="/"><b>Core Interaction</b></a></li>
+      {% for link_hash in site.navigation %}
+        {% for link in link_hash %}
+          {% assign active_class = '' %}
+          {% if page.url contains link[1] %}
+            {% assign active_class = 'active' %}
+          {% endif %}
+          <li><a href="{{ link[1] }}" class="{{ active_class }}">{{ link[0] }}</a></li>
+        {% endfor %}
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

@@ -1,0 +1,5 @@
+---
+title:            Digital Public Spaces
+author:           Future Everything
+link:             /assets/readings/future-everything_digital-public-spaces.pdf
+---

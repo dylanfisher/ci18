@@ -1,0 +1,5 @@
+---
+title:            What Design Means to Me
+author:           Karel Martens
+link:             /assets/readings/martens-karel_what-design-means-to-me.pdf
+---

@@ -1,0 +1,38 @@
+---
+layout: page
+permalink: /projects/index.html
+---
+
+<ol class="project-list list--blank">
+  {% assign ongoing_index = 0 %}
+  {% assign projects = site.projects | sort: 'index' %}
+  {% for project in projects %}
+    {% if project.ongoing %}
+      {% if ongoing_index == 1 %}
+        {% assign ongoing_index = 2 %}
+      {% else %}
+        {% assign ongoing_index = 1 %}
+      {% endif %}
+    {% endif %}
+    <li class="project project--onoing-{{ project.ongoing }}">
+      {% if ongoing_index == 1 %}
+        <hr>
+      {% endif %}
+      <div class="project__index">
+        <h2><span class="project__index__number">{{ project.index }}</span><span class="divider">–</span></h2>
+      </div>
+      <div class="project__info">
+        <div class="project__title">
+          <h2>
+            <a class="project__title__link blank-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          </h2>
+          {% if project.categories.size > 0 %}
+            <div class="project__categories">
+            {{ project.categories | join: ', ' }}
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ol>

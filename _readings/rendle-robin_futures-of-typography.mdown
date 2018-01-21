@@ -1,0 +1,5 @@
+---
+title:            The Futures of Typography
+author:           Robin Rendle
+link:             https://robinrendle.com/essays/futures-of-typography/
+---

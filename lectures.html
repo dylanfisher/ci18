@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /lectures/index.html
+---
+
+<ol class="lecture-list list--blank">
+  {% assign lectures = site.lectures | sort: 'lecture_date' %}
+  {% for lecture in lectures %}
+    {% if lecture.hidden %}
+      {% continue %}
+    {% endif %}
+    <li class="lecture">
+      <div class="lecture__info">
+        <div class="lecture__title">
+          <h2>
+            <a class="lecture__title__link blank-link" href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a>
+          </h2>
+          <div class="lecture__date">
+            {{ lecture.lecture_date |  date: '%A, %_m/%e' }} – {{ lecture.section }}
+          </div>
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ol>

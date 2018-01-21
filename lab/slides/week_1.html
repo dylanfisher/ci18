@@ -1,0 +1,247 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Week 1 | Core Interaction Lab</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+		<link rel="stylesheet" href="css/theme/custom.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+				<section>
+					<h1>Hello, World!</h1>
+				</section>
+
+				<section>
+					<h6>Part 1</h6>
+					<h1>Version Control</h1>
+					<img data-src="week_1/git-workflow-complex.jpg" width="600">
+				</section>
+
+				<section data-background="week_1/xkcd-git.png" data-background-size="contain">
+				</section>
+
+				<section>
+					<h2>git</h2>
+					<p><small><a href="https://git-scm.com/" target="_blank">https://git-scm.com/</a></small></p>
+					<img data-src="week_1/git-rebase.gif">
+				</section>
+
+				<section>
+					<p>The name "git" was given by <a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank">Linus Torvalds</a> when he wrote the very first version. He described the tool as "the stupid content tracker".</p>
+				</section>
+
+				<section>
+					<h2>Installing git</h2>
+					<ul>
+						<li>Open terminal</li>
+						<li>type <code>git</code></li>
+						<li>Install xcode command line tools if necessary</li>
+						<li>Once installed, type <code>git</code> again and you should see git's help text</li>
+					</ul>
+				</section>
+
+				<section>
+					<h2>Configuring git</h2>
+					<p><small><a href="https://help.github.com/articles/setting-your-email-in-git/">https://help.github.com/articles/setting-your-email-in-git/</a></small></p>
+					<pre><code data-trim>
+						git config --global user.name "Billy Everyteen"
+						git config --global user.email "your_email@example.com"
+					</code></pre>
+				</section>
+
+				<section>
+					<img data-src="week_1/github.svg" width="100">
+					<h2>GitHub</h2>
+					<p><small><a href="https://github.com/" target="_blank">https://github.com/</a></small></p>
+					<p>GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features.</p>
+				</section>
+
+				<section>
+					<p>Create a GitHub account using your newschool username and email address.</p>
+					<p>You'll use this repository to store code and submit projects for both studio and lab sections of this class. Additionally, you'll use GitHub Pages to make your projects and files publicly accessible over the web.</p>
+				</section>
+
+				<section>
+					<h6>Part 2</h6>
+					<h1>Text Editor</h1>
+				</section>
+
+				<section>
+					<img data-src="week_1/sublime-text.png" width="100">
+					<h2>Sublime Text</h2>
+					<p><small><a href="https://www.sublimetext.com/" target="_blank">https://www.sublimetext.com/</a></small></p>
+					<p>Free to try, cross-platform, fast, customizable.</p>
+				</section>
+
+				<section>
+					<h2>Customizing Sublime Text</h2>
+					<p>This is my text editor. There are<br>many like it, but this one is mine.</p>
+				</section>
+
+				<section>
+					<p>Consistent user preferences</p>
+					<p><small>Add the following to your user preferences, located in:<br>Sublime Text > Preferences > Settings – User</small></p>
+					<pre><code data-trim>
+						{
+						  "draw_white_space": "all",
+						  "tab_size": 2,
+						  "translate_tabs_to_spaces": true,
+						  "trim_trailing_white_space_on_save": true,
+						  "word_wrap": false,
+						  "default_line_ending": "unix",
+						  "ensure_newline_at_eof_on_save": true,
+						  "highlight_line": true,
+						  "highlight_modified_tabs": true,
+						  "open_files_in_new_window": false,
+						  "scroll_past_end": true,
+						}
+					</code></pre>
+				</section>
+
+				<section>
+					<p>User keyboard shortcut preferences</p>
+					<p><small>Add the following to your user keyboard shortcut preferences, located in:<br>Sublime Text > Preferences > Key Bindings – User</small></p>
+					<pre><code data-trim>
+						[
+						  // swap the keybindings for paste and paste_and_indent
+						  { "keys": ["super+v"], "command": "paste_and_indent" },
+						  { "keys": ["super+shift+v"], "command": "paste" },
+						]
+					</code></pre>
+				</section>
+
+				<section>
+					<h2>Basic keyboard shortcuts</h2>
+					<pre><code class="bash" data-trim>
+					Command + P         # Goto Anything
+					Command + Shift + P # Command Pallette
+					Command + D         # Select next occurrence
+					</code></pre>
+					<p><a href="https://www.viget.com/articles/my-overused-sublime-text-keyboard-shortcuts" target="_blank">Click here</a> for additional Sublime Text shortcuts and tips, complete with animated gifs.</p>
+				</section>
+
+				<section>
+					<h2>Extend Sublime Text with Package Control</h2>
+					<p><small><a href="https://packagecontrol.io/" target="_blank">https://packagecontrol.io/</a></small></p>
+					<p><small>The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.</small></p>
+					<p>Follow the <a href="https://packagecontrol.io/installation" target="_blank">installation instructions</a> to install Package Control within Sublime Text 3.</p>
+				</section>
+
+				<section>
+					<h2>Install plugins</h2>
+					<p>Use the Command Pallette to install the following two plugins, by typing "Pack Install". Press enter when "Package Control: Install Package" is highlighted.</p>
+					<p><small>Once the list of packages is displayed, type the name of the package you want to install. Install these two packages:</small></p>
+					<p></p>
+					<ul>
+						<li>Emmet</li>
+						<li>Sidebar Enhancements</li>
+					</ul>
+				</section>
+
+				<section>
+					<h6>Part 3</h6>
+					<h1>Terminal</h1>
+					<img src="week_1/terminal.png" width="850">
+				</section>
+
+				<section>
+					<h2>Navigating the terminal</h2>
+					<p>With a few basic Unix commands, navigating the terminal is easy.</p>
+					<p><small>Don't be afraid to type <code>ls</code> and <code>pwd</code> all over the place. This is how you know where you are and what file contents are in the directory.</small></p>
+					<pre><code class="md" data-trim>
+							ls    # list directory contents
+							pwd   # return working directory name
+							cd    # change directory
+					</code></pre>
+					<pre><code class="md" data-trim>
+							mkdir # make directory
+					</code></pre>
+				</section>
+
+				<section>
+					<h2>Create a projects directory</h2>
+					<p>In the terminal, navigate to your user's root directory and create a new directory named "projects", using the following commands:</p>
+					<pre><code class="md" data-trim>
+							cd ~           # change directory to user's root
+							mkdir projects # create new directory named "projects"
+							cd projects    # enter the new directory
+					</code></pre>
+				</section>
+
+				<section>
+					<h2>GitHub Pages</h2>
+					<p><a href="https://pages.github.com/" target="_blank">https://pages.github.com/</a></p>
+					<p>Free hosting for your static HTML projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.</p>
+					<p>Follow the instruction on <a href="https://pages.github.com/" target="_blank">pages.github.com</a> to set up a "User or organization site" using your newschool username. Set up your repo in the new projects directoy we just made.</p>
+				</section>
+
+				<section>
+					<h2>Three commands to remember!</h2>
+					<pre><code class="bash" data-trim>
+							git add -a
+							git commit -m "My message"
+							git push
+					</code></pre>
+					<ol>
+						<li>Add all files</li>
+						<li>Commit the files with <a href="http://chris.beams.io/posts/git-commit/" target="_blank">a descriptive message</a></li>
+						<li>Push the files to GitHub</li>
+					</ol>
+				</section>
+
+				<section>
+					<h2>Basic HTML elements</h2>
+					<p><small><a href="https://www.tutorialspoint.com/html/html_basic_tags.htm">https://www.tutorialspoint.com/html/html_basic_tags.htm</a></small></p>
+					<pre><code class="html" data-trim>
+						h1, h2, h3, h4, h5, h6
+						p
+						div
+						span
+						hr
+						br
+						pre
+					</code></pre>
+				</section>
+
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+				slideNumber: true,
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>

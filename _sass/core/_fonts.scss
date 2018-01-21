@@ -1,0 +1,31 @@
+// Fonts
+
+@font-face {
+  font-family: 'burgess-regular';
+  src: url('fonts/burgess-regular.eot');
+  src: url('fonts/burgess-regular.eot?#iefix') format('embedded-opentype'),
+       url('fonts/burgess-regular.woff') format('woff'),
+       url('fonts/burgess-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'burgess-regular';
+  src: url('fonts/burgess-italic.eot');
+  src: url('fonts/burgess-italic.eot?#iefix') format('embedded-opentype'),
+       url('fonts/burgess-italic.woff') format('woff'),
+       url('fonts/burgess-italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'burgess-regular';
+  src: url('fonts/burgess-semibold.eot');
+  src: url('fonts/burgess-semibold.eot?#iefix') format('embedded-opentype'),
+       url('fonts/burgess-semibold.woff') format('woff'),
+       url('fonts/burgess-semibold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}

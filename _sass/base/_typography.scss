@@ -1,0 +1,43 @@
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+h1, h2 {
+  @include font-large;
+}
+
+h3, h4, h5, h6 {
+  @include font-regular;
+}
+
+h3 {
+  margin-left: 74px;
+  font-weight: bold;
+  margin-top: $line-height * 2;
+  margin-bottom: $line-height;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+ul, p {
+  margin: 0 0 $line-height;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+pre,
+code {
+  @include font-monospace;
+}
+
+p,
+li {
+  pre,
+  code {
+    @include inline-code;
+  }
+}

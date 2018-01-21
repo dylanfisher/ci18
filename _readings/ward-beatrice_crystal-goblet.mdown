@@ -1,0 +1,5 @@
+---
+title:            The Crystal Goblet
+author:           Beatrice Ward
+link:             /assets/readings/warde-beatrice_the-crystal-goblet.pdf
+---

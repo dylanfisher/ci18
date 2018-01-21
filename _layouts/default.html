@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  {% if page.layout != 'home' %}
+    <div class="hamburger">
+      <div class="hamburger__line hamburger__line--1"></div>
+      <div class="hamburger__line hamburger__line--2"></div>
+      <div class="hamburger__line hamburger__line--3"></div>
+    </div>
+    <div class="mobile-nav">
+      {% include header.html %}
+    </div>
+  {% endif %}
+  {% capture layout %}{% if page.layout %}layout--{{ page.layout }}{% endif %}{% endcapture %}
+  <body class="container-fluid {{ layout }}">
+    <div class="sidebar">
+      {% include header.html %}
+      {% include footer.html %}
+    </div>
+    <div class="content">
+      {% if page.layout != 'home' %}
+        <h1 class="mobile-banner home-banner"><a href="/">Core<br>Interaction</a></h1>
+      {% endif %}
+      {{ content }}
+    </div>
+  </body>
+</html>

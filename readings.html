@@ -1,0 +1,18 @@
+---
+layout: full_page
+permalink: /readings/index.html
+---
+
+<div class="reading-list">
+  {% assign readings = site.readings | sort: 'author' %}
+  {% for reading in readings %}
+    <a href="{{ reading.link }}" class="reading-link blank-link" target="_blank">
+      <div class="reading">
+        <div class="reading__inner">
+          <div class="reading__title"><b>{{ reading.title }}</b></div>
+          <div class="reading__author">{{ reading.author }}</div>
+        </div>
+      </div>
+    </a>
+  {% endfor %}
+</div>

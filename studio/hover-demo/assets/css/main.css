@@ -1,0 +1,285 @@
+/* reset */
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* type */
+
+body {
+    font-family: times, serif;
+    text-align: center;
+    font-size: 38px;
+    line-height: 1.3;
+    background-color: #F6F6F2;
+}
+
+/* structure */
+
+.content {
+	max-width: 815px;
+	padding: 100px 30px;
+	margin: auto;
+	font-weight: 300;
+}
+
+.content p {
+	margin-bottom: 80px;
+	position: relative;
+}
+
+/* typography */
+
+.allcaps {
+	font-size: 37px;
+	letter-spacing: 2px;
+}
+
+/* first paragraph - hovers */
+
+.long-way {
+	font-style: italic;
+}
+
+.long-way:hover {
+	cursor: pointer;
+	font-size: 2em;
+	transition: all 10s ease-in-out;
+}
+
+.simplelink {
+	text-decoration: none;
+	/*border-bottom: 2px solid #F68391;*/
+	color: #000;
+	background-color: #F68391;
+	transition: all 0.1s ease;
+}
+
+.simplelink:hover {
+	/*border-bottom: 2px dashed #F68391;*/
+	background-color: pink;
+}
+
+.gradient-fill {
+	background: -webkit-linear-gradient(#e128ff, #ff5151);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	transition: all 0.8s ease;
+}
+
+.gradient-fill:hover {
+	background: -webkit-radial-gradient(#40ff00, #7d81ff, #00ed8a);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	cursor: pointer;
+}
+
+.funky-cursor {
+	color: orange;
+}
+
+.funky-cursor {
+	cursor: url(../imgs/yingyang-cursor.png), auto;
+}
+
+.faerie {
+	background-color: #3DBD27;
+	-webkit-animation: none;
+	-moz-animation: none;
+	animation: none;
+}
+
+.faerie:hover {
+	cursor: pointer;
+	background: linear-gradient(270deg, #ff00f5, #ffd736, #f2a4ff, #6bf51d, #06e854);
+	background-size: 1000% 1000%;
+
+	-webkit-animation: slideBackground 2s ease infinite;
+	-moz-animation: slideBackground 2s ease infinite;
+	animation: slideBackground 2s ease infinite;
+}
+
+    @-webkit-keyframes slideBackground {
+        0%{background-position:0% 50%}
+        50%{background-position:100% 50%}
+        100%{background-position:0% 50%}
+    }
+    @-moz-keyframes slideBackground {
+        0%{background-position:0% 50%}
+        50%{background-position:100% 50%}
+        100%{background-position:0% 50%}
+    }
+    @keyframes slideBackground {
+        0%{background-position:0% 50%}
+        50%{background-position:100% 50%}
+        100%{background-position:0% 50%}
+    }
+
+/* second paragraph - hovers */
+
+.writing {
+	font-style: italic;
+	background-color: #99CDFF;
+	text-decoration: none;
+	color: #000;
+	position: relative;
+}
+
+.writing:hover:after {
+	content: url(../imgs/chia.png);
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.fillrect {
+	border: 1px solid #3fff00;
+	padding: 0 10px;
+	transition: all 0.5s ease;
+}
+
+.fillrect:hover {
+	background-color: #3fff00;
+	cursor: pointer;
+}
+
+.fakelink {
+	border-bottom: 2px solid;
+}
+
+.fakelink:hover {
+	border-bottom: 2px dotted;
+	cursor: pointer;
+}
+
+.palm {
+margin-top: 60px;
+}
+
+.palm:hover {
+	-webkit-transform: rotate(360deg);
+	transform: rotate(360deg);
+	cursor: pointer;
+	transition: all 0.5s ease;
+}
+
+/* third paragraph - hovers */
+
+.alternate:nth-child(odd) {
+  color: white;
+  transition: all 10s ease-in-out;
+}
+
+.alternate:nth-child(odd):hover {
+  background-color: black;
+  cursor: pointer;
+}
+
+.alternate img {
+	z-index: 0;
+	position: absolute;
+	max-width: 200px;
+	opacity: 0;
+	-webkit-transition: all .5s ease-in-out;
+}
+.alternate:hover img {
+	opacity: 1;
+}
+
+/* fourth paragraph - hovers */
+
+.shape {
+	width: 400px;
+	height: 40px;
+	position: relative;
+	display: inline-block;
+	margin: 0 auto;
+	background-color: #5293d5;
+	-webkit-transform: rotate(45deg);
+	-webkit-transition: all 1s ease-in-out;
+}
+
+.shape:hover {
+	border-radius: 30px;
+	width: 200px;
+	height: 150px;
+	background-color: #ffe002;
+	-webkit-transform: scale(2.25);
+	cursor: pointer;
+}
+
+/* fifth paragraph - hovers */
+
+.imgfilters img {
+	display: block;
+	margin: 0 auto;
+	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+	filter: grayscale(100%);
+	padding: 60px 0 60px 0;
+}
+
+.imgfilters img:hover {
+	filter: none;
+	cursor: pointer;
+}
+
+/* sixth paragraph - hovers */
+
+.words span{
+	opacity: 0;
+	width: 100%;
+	margin: 0 auto;
+	position: relative;
+}
+
+.words-2 span{
+	animation: animateWords 10s linear infinite 0s;
+}
+
+.words span:nth-child(2) {
+	animation-delay: 1s;
+	color: #e760c2;
+}
+.words span:nth-child(3) {
+	animation-delay: 2s;
+	color: green;
+}
+.words span:nth-child(4) {
+	animation-delay: 3s;
+	color: #e760c2
+}
+.words span:nth-child(5) {
+	animation-delay: 4s;
+	color: green;
+}
+.words span:nth-child(6) {
+	animation-delay: 5s;
+	color: #e760c2;
+}
+
+@keyframes animateWords {
+    0% { opacity: 1; animation-timing-function: ease-in; height: 0px; }
+    8% { opacity: 1; height: 60px; }
+    19% { opacity: 1; height: 60px; }
+		25% { opacity: 0; height: 60px; }
+    100% { opacity: 0; }
+}
+
+/* student turn styles */
+
+.student-turn hr {
+	margin-bottom: 60px;
+}
+
+.directions {
+	font-family: arial, sans;
+	font-size: 20px;
+}
+
+.directions a {
+	color: turquoise;
+	text-decoration: none;
+	border-bottom: 1px solid #000;
+}

@@ -1,0 +1,12 @@
+// For more information see https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/_bootstrap.scss
+
+// Mixins
+// --------------------------------------------------
+
+// Layout
+@import "bootstrap/mixins/clearfix";
+@import "bootstrap/mixins/grid-framework";
+@import "bootstrap/mixins/grid";
+
+// Core CSS
+@import "bootstrap/grid";

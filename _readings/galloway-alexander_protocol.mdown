@@ -1,0 +1,5 @@
+---
+title:            Protocol
+author:           Alexander Galloway
+link:             /assets/readings/galloway-alexander-protocol.pdf
+---

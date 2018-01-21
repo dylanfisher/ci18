@@ -1,0 +1,6 @@
+@mixin inline-code {
+  @include font-monospace;
+  background: $code-background-color;
+  padding: 0.1em 0.5em;
+  border-radius: 4px;
+}

@@ -1,0 +1,9 @@
+blockquote {
+  background: #2C2C2C !important;
+}
+
+img {
+  border: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
