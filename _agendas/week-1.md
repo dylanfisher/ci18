@@ -14,6 +14,7 @@ date_range:       1/23 – 1/26
 - Discuss [Git](https://git-scm.com/)
 - Sign up for [GitHub](https://github.com/)
 - Create your first [GitHub Pages](https://pages.github.com/) website
+- Navigating the terminal
 
 ### Homework
 
