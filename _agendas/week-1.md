@@ -7,7 +7,7 @@ date_range:       1/23 – 1/26
 ### Tuesday, Studio
 
 - Introductions
-- Syllabus and course homepage overview
+- [Syllabus](https://docs.google.com/document/d/10_OBOOdFk3AfyrnyAWjOvvR35NfrKr0Ze9-e1xDXdXo/edit?usp=sharing) and course homepage overview
 - Student presentations
 
 ### Homework

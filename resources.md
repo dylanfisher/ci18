@@ -26,7 +26,7 @@ git push                # transfers the files to GitHub
 
 ### Syllabi
 
-- [Studio](#TODO)
+- [Studio](https://docs.google.com/document/d/10_OBOOdFk3AfyrnyAWjOvvR35NfrKr0Ze9-e1xDXdXo/edit?usp=sharing)
 - [Lab](https://docs.google.com/document/d/1ktM7xaN33QZ-92QOj-m5ZxwKhgc42PRwXjUc1w2eKQQ)
 
 ### Programming
