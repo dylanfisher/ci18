@@ -6,6 +6,13 @@ date_range:       1/23 – 1/26
 
 ### Tuesday, Studio
 
+- Introductions
+- Syllabus and course homepage overview
+- Student presentations
+
+### Homework
+-Reading: Staples, Typography and the Screen and [discussion question](https://docs.google.com/document/d/18sKz4hNZBPRf6RGIiqbPpylc5A8lOblWFT21CX7TSjM/edit?usp=sharing)
+
 ---
 
 ### Wednesday, Lab
