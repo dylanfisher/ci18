@@ -14,6 +14,7 @@ date_range:       1/23 – 1/26
 -Reading: [Staples, Typography and the Screen](ci.nikasimovich.com/assets/readings/staples-typography.pdf) and [discussion question](https://docs.google.com/document/d/18sKz4hNZBPRf6RGIiqbPpylc5A8lOblWFT21CX7TSjM/edit?usp=sharing)
 - Purchase Sketch
 - Sign up for InVision
+
 ---
 
 ### Wednesday, Lab
