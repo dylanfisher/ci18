@@ -16,7 +16,7 @@ a {
 }
 
 .link--external {
-  // cursor: alias;
+  cursor: alias;
 }
 
 .list--blank {
@@ -35,7 +35,6 @@ a {
 .page-content {
   ol,
   ol li {
-    margin-bottom: $line-height;
     padding-left: 14px;
 
     &:last-child {

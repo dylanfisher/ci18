@@ -10,9 +10,28 @@ h3, h4, h5, h6 {
   @include font-regular;
 }
 
+h4, h5 {
+  font-weight: bold;
+}
+
 h3 {
   margin-left: 74px;
   font-weight: bold;
+  margin-top: $line-height * 2;
+  margin-bottom: $line-height;
+
+  &:first-child {
+    margin-top: 0;
+  }
+
+  & + h3,
+  & + h4,
+  & + h5 {
+    margin-top: $line-height;
+  }
+}
+
+h4 {
   margin-top: $line-height * 2;
   margin-bottom: $line-height;
 
