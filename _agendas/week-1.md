@@ -20,19 +20,16 @@ date_range:       1/23 – 1/26
 ### Wednesday, Lab
 
 - Introductions
-- Discuss [Git](https://git-scm.com/)
-- Sign up for [GitHub](https://github.com/)
-- Create your first [GitHub Pages](https://pages.github.com/) website
-- Navigating the terminal
+- Discuss Git, GitHub Pages and navigating the terminal: [GitHub lecture](/lectures/lab/github)
 
 ### Homework
 
-- Read [The seven rules of a great git commit message](http://chris.beams.io/posts/git-commit/#seven-rules)
-- Customize the index of your GitHub repo by adding some simple text, or
+1. Read [The seven rules of a great git commit message](http://chris.beams.io/posts/git-commit/#seven-rules)
+1. Customize the index of your GitHub repo by adding some simple text, or
   experimenting with basic HTML tags. Practice changing the file, committing it
-  with a message, and pushing the changes to GitHub.
-- Everyone should come to class on Week 2 with several additional commits logged.
-- Read and/or review the following pages from w3schools. There will be a <strong>timed quiz</strong> next week that tests your knowledge of the concepts outlined in these pages.
+  with a message, and pushing the changes to GitHub. Everyone should come to class
+  on Week 2 with several additional commits logged.
+1. Read and/or review the following pages from w3schools. There will be a timed quiz next week that tests your knowledge of the concepts outlined in these pages.
   - [Introduction](https://www.w3schools.com/html/html_intro.asp)
   - [Text editors](https://www.w3schools.com/html/html_editors.asp)
   - [Basic examples](https://www.w3schools.com/html/html_basic.asp)
