@@ -68,3 +68,4 @@ date_range:       1/23 – 1/26
 - Start designing the first page of your project. Bring in 3 different explorations.
 
 - Read [Typophoto](/assets/readings/moholy-nagy-laszlo-typophoto.pdf) and [The Crystal Goblet](/assets/readings/warde-beatrice_the-crystal-goblet.pdf). Vinny, please prepare a reading presentation for Typophoto.
+- [Disussion Question](https://docs.google.com/document/d/13ccSdgQ7JWSdvlFeqRbZy2Ek157eq-cPWSOipDK6AHU/edit?usp=sharing)
