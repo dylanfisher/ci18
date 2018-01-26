@@ -11,7 +11,7 @@ date_range:       1/23 – 1/26
 - Student presentations
 
 ### Homework
--Reading: [Staples, Typography and the Screen](/assets/readings/staples-typography.pdf) and [discussion question](https://docs.google.com/document/d/18sKz4hNZBPRf6RGIiqbPpylc5A8lOblWFT21CX7TSjM/edit?usp=sharing)
+- Reading: [Staples, Typography and the Screen](/assets/readings/staples-typography.pdf) and [discussion question](https://docs.google.com/document/d/18sKz4hNZBPRf6RGIiqbPpylc5A8lOblWFT21CX7TSjM/edit?usp=sharing)
 - Purchase [Sketch](https://www.sketchapp.com/store/edu/)
 - Sign up for [InVision](https://www.invisionapp.com/)
 
@@ -47,3 +47,24 @@ date_range:       1/23 – 1/26
 ---
 
 ### Friday, Studio
+
+- [Lecture on typography and the screen](/assets/lectures/lecture1_staples.pdf)
+- Discussion questions
+- Introduce [Project 1, Click Click](/projects/clickclick)
+- Demonstrate InVision
+- Demonstrate Sketch
+- Begin Homework
+- Watch [John Berger, Ways of Seeing](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
+
+### Homework
+- FOR CLICK, CLICK
+- Decide on your text and bring it in.
+- Create a presentation on InVision that introduces your idea. Answer the following questions in your presentation:
+- How will you divide your text up? Why? Try to think of something more interesting than the predesigned chapters of the book
+- How many pages do you want to divide your text into?
+- Will the journey through your story be linear (Clicking takes you to the next page all the way through) or will it have multiple entry ways? Why? How does your decision support your overall goal for the website?
+- What is the main theme you'd like to communicate to the user? How can this theme be presented through the way you organize the text?
+- How can your theme be communicated visually? Do an exploration on typography and design. Find examples of other designs that achieve what you're going after. Be sure to label your findings.
+- Start designing the first page of your project. Bring in 3 different explorations.
+
+- Read [Typophoto](/assets/readings/moholy-nagy-laszlo-typophoto.pdf) and [The Crystal Goblet](/assets/readings/warde-beatrice_the-crystal-goblet.pdf). Vinny, please prepare a reading presentation for Typophoto.
