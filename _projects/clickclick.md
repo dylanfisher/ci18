@@ -38,9 +38,9 @@ Finding your text (you can get it from anywhere!):
 [Twitter](https://twitter.com/)<br/>
 
 Project Inspiration:
-[Sweethearts, Mindy Seu](http://www.sweetheartsweetheart.com/)
-[My Boyfriend Came Back from the War, Olia Lialina](http://www.teleportacia.org/war/)
-[Matchmaker](https://www.google.com/maps/d/u/0/viewer?mid=1NYh7SFm9M6pJFdhxa1wk51ncVfk&ll=37.8012389%2C-122.25829899999997&z=12)
-[Radiohead Website](https://www.radiohead.com/rh0001.html)
+[Sweethearts, Mindy Seu](http://www.sweetheartsweetheart.com/)<br>
+[My Boyfriend Came Back from the War, Olia Lialina](http://www.teleportacia.org/war/)<br>
+[Matchmaker](https://www.google.com/maps/d/u/0/viewer?mid=1NYh7SFm9M6pJFdhxa1wk51ncVfk&ll=37.8012389%2C-122.25829899999997&z=12)<br>
+[Radiohead Website](https://www.radiohead.com/rh0001.html)<br>
 
 
