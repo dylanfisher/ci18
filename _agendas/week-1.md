@@ -64,7 +64,7 @@ date_range:       1/23 – 1/26
 - How many pages do you want to divide your text into?
 - Will the journey through your story be linear (Clicking takes you to the next page all the way through) or will it have multiple entry ways? Why? How does your decision support your overall goal for the website?
 - What is the main theme you'd like to communicate to the user? How can this theme be presented through the way you organize the text?
-- How can your theme be communicated visually? Do an exploration on typography and design. Find examples of other designs that achieve what you're going after. Be sure to label your findings.
+- How can your theme be communicated visually? Do an exploration on typography and design. Find examples of other designs that achieve what you're going after. Be sure to label your findings.<br/>
 - Start designing the first page of your project. Bring in 3 different explorations.
 
 - Read [Typophoto](/assets/readings/moholy-nagy-laszlo-typophoto.pdf) and [The Crystal Goblet](/assets/readings/warde-beatrice_the-crystal-goblet.pdf). Vinny, please prepare a reading presentation for Typophoto.
