@@ -18,4 +18,5 @@ date_range:       1/29 – 2/03
 - Refine your idea for Click, Click and design the rest of the pages of your site. Upload to InVision by the start of class.
 - Esra, prepare a reading presentation for [Fuck Content by Michael Rock](http://2x4.org/ideas/2/fuck-content/)
 - Rest of class, do the reading and [discussion q](https://docs.google.com/document/d/1Bt-WbjonLYhW8Mhjx7AIOWf867nFZ0FVJt2BMDRAvc4/edit?usp=sharing)
+
 ---
