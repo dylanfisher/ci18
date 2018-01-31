@@ -23,7 +23,7 @@ date_range:       1/30 – 2/02
 
 ### Wednesday, Lab
 
-- HTML Quiz
+- [HTML Quiz](/lectures/lab/html-quiz)
 - Lecture: [HTML & CSS, Part 1](/lectures/lab/html-css-part-1)
 - [Personal Journey exercise](/lectures/lab/personal-journey)
 

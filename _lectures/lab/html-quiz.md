@@ -12,7 +12,7 @@ hidden: true
 1. Complete the quiz by adding your answers to the index.html file.
 1. At the end of the quiz upload your new file to GitHub. Refer to the [Resources page](/resources) if you need help with the commands to navigate to your directory in the terminal and push to github.
 
-You have 15 minutes to complete the quiz. You may use the internet to help answer the questions if necessary, but don't share or copy code between students.
+You have 20 minutes to complete the quiz. You may use the internet to help answer the questions if necessary, but don't share or copy code between students.
 
 Feel free to pick and choose which questions you answer first. Try to answer as many as possible, and move on if you get stuck on one problem.
 
