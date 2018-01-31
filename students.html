@@ -11,8 +11,8 @@ permalink: /students/index.html
     {% endif %}
     <a href="{{ student.link }}">
       <div class="student">
-        <h2><a href="https://{{ student.student_id }}.github.io/" class="blank-link">{{ student.first_name }} {{ student.last_name }}</a></h2>
-        <a href="https://github.com/{{ github_username }}/{{ student.student_id }}.github.io" class="student-list__github-link">github.com/{{ github_username }}</a>
+        <h2><a href="https://{{ github_username }}.github.io/" class="blank-link">{{ student.first_name }} {{ student.last_name }}</a></h2>
+        <a href="https://github.com/{{ github_username }}/{{ github_username }}.github.io" class="student-list__github-link">github.com/{{ github_username }}</a>
       </div>
     </a>
   {% endfor %}
