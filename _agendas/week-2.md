@@ -1,7 +1,7 @@
 ---
 title:            Week 2
 start_date:       2018-01-29 00:00:00 -0500
-date_range:       1/29 – 2/03
+date_range:       1/30 – 2/02
 ---
 
 ### Tuesday, Studio
@@ -20,3 +20,16 @@ date_range:       1/29 – 2/03
 - Rest of class, do the reading and [discussion q](https://docs.google.com/document/d/1Bt-WbjonLYhW8Mhjx7AIOWf867nFZ0FVJt2BMDRAvc4/edit?usp=sharing)
 
 ---
+
+### Wednesday, Lab
+
+- HTML Quiz
+- Lecture: [HTML & CSS, Part 1](/lectures/lab/html-css-part-1)
+- [Personal Journey exercise](/lectures/lab/personal-journey)
+
+### Homework
+
+- If you did not complete all questions from the HTML quiz, complete and upload this to your GitHub account before next class.
+- If you did not complete the Personal Journey exercise, complete and upload this to your GitHub account before next class.
+- Read [W3 School's CSS tutorials](https://www.w3schools.com/css/default.asp). Please skim the contents of each section under the "CSS Tutorial" sidebar. (That's the sections named "CSS HOME" through "CSS Website Layout").
+- Update your GitHub pages repo by applying some CSS to it. If you've already applied CSS, please make an update to it using something you learned when reading the W3 School's CSS tutorials.
