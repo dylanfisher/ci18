@@ -31,6 +31,7 @@ date_range:       1/30 – 2/02
 - Read [W3 School's CSS tutorials](https://www.w3schools.com/css/default.asp). Please skim the contents of each section under the "CSS Tutorial" sidebar. (That's the sections named "CSS HOME" through "CSS Website Layout").
 - Update your GitHub pages repo by applying some CSS to it. If you've already applied CSS, please make an update to it using something you learned when reading the W3 School's CSS tutorials.
 
+---
 
 ### Friday, Studio
 
