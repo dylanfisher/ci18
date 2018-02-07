@@ -33,16 +33,13 @@ a {
 }
 
 .page-content {
-  ol,
-  ol li {
-    padding-left: 14px;
-
-    &:last-child {
-      margin-bottom: 0;
-    }
-  }
-
   ol {
+    padding-left: 1em;
+
+    & > li {
+      padding-left: 1em;
+    }
+
     ul li {
       margin-bottom: 0;
     }
@@ -53,7 +50,7 @@ a {
     padding: 0;
   }
 
-  ul li {
+  ul > li {
     position: relative;
     text-indent: -0.9em;
     margin-left: 0.9em;
