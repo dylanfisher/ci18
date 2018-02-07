@@ -1,7 +1,7 @@
 ---
 title:            Week 3
-start_date:       2018-02-04 00:00:00 -0500
-date_range:       2/05 – 2/09
+start_date:       2018-02-06 00:00:00 -0500
+date_range:       2/06 – 2/09
 ---
 
 ### Tuesday, Studio
