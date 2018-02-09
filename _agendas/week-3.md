@@ -68,4 +68,4 @@ date_range:       2/06 – 2/09
 ### Homework
 - Have about 75% of your website online. We will work in class on Tuesday as well.
 - Reading: [*Junkspace by Rem Koolhaas*](../assets/readings/koolhaas-rem_junkspace.pdf) with [discussion question](https://docs.google.com/document/d/12_JacuGEUpTDO25msRLLNI9O36-7V96V8LTu1NQ0lfg/edit?usp=sharing)
-- Volunteer to do the reading presentation on Rem Koolhaas
+- Emil does the reading presentation on Rem Koolhaas
