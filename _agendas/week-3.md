@@ -15,7 +15,7 @@ date_range:       2/06 – 2/09
 ### Homework
 - Click, Click: Finalize your design
 - Click, Click: Begin programming your site. Have questions ready for your lab instructor on Wednsday. Have about 25-50% of the site online by Friday's class.
-- Read pages [Conversation 1: art.yal.edu (pages 3 through 17) in this PDF](https://www.dropbox.com/s/p1ikztkma7mi0xf/yale-reader.pdf?dl=0) and create a [discussion question](https://docs.google.com/document/d/1GABHCwiv4MAld3vV4hCz7EbbhgaVUE99ipjCEjw6fTo/edit?usp=sharing)
+- Read pages [Conversation 1: art.yale.edu (pages 3 through 17) in this PDF](https://www.dropbox.com/s/p1ikztkma7mi0xf/yale-reader.pdf?dl=0) and create a [discussion question](https://docs.google.com/document/d/1GABHCwiv4MAld3vV4hCz7EbbhgaVUE99ipjCEjw6fTo/edit?usp=sharing)
 
 ---
 
@@ -45,3 +45,26 @@ date_range:       2/06 – 2/09
 - Emil and Jahyun start next class with [weekly interest](/projects/weekly_interest)
 
 ---
+
+### Friday, Studio
+
+- Vinny presents on art.yale.edu and go over [discussion questions](https://docs.google.com/document/d/1GABHCwiv4MAld3vV4hCz7EbbhgaVUE99ipjCEjw6fTo/edit?usp=sharing)
+- - [Workshop: Hovering](http://ci.nikasimovich.com/studio/hover-demo/index.html)
+- [Workshop files](https://github.com/dylanfisher/ci/raw/master/studio/hover-demo/hover-demo.zip)
+- Get into groups of 3. Present your work to each other. Answer and record these questions from your classmates:<br>
+1. What is the first thing you want to do when you land on the website?
+2. Is the user flow intuitive? Why or why not?
+3. Is something broken? If so, what is it? Does anyone in your group know how to fix it?
+4. If something is broken and no one knows how to fix it, what might you search for to find the answer?
+5. What do you think the designer&rsquo;s intention is behind the design choices? Is it communicated clearly? How can it be improved upon?
+6. In terms of formal art/design concepts (typography, layout, scale, color, texture, rhythm) what is working? What could be improved upon?
+7. Is the site easy to navigate? Based on our presentation about navigation on Tuesday, is there enough information for the user?
+8. Any last comments about the experience?
+---
+
+
+
+### Homework
+- Have about 75% of your website online. We will work in class on Tuesday as well.
+- Reading: [*Junkspace by Rem Koolhaas*](../assets/readings/koolhaas-rem_junkspace.pdf) with [discussion question](https://docs.google.com/document/d/12_JacuGEUpTDO25msRLLNI9O36-7V96V8LTu1NQ0lfg/edit?usp=sharing)
+- Volunteer to do the reading presentation on Rem Koolhaas
