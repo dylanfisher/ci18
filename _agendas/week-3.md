@@ -49,7 +49,7 @@ date_range:       2/06 – 2/09
 ### Friday, Studio
 
 - Vinny presents on art.yale.edu and go over [discussion questions](https://docs.google.com/document/d/1GABHCwiv4MAld3vV4hCz7EbbhgaVUE99ipjCEjw6fTo/edit?usp=sharing)
-- - [Workshop: Hovering](http://ci.nikasimovich.com/studio/hover-demo/index.html)
+- [Workshop: Hovering](http://ci.nikasimovich.com/studio/hover-demo/index.html)
 - [Workshop files](https://github.com/dylanfisher/ci/raw/master/studio/hover-demo/hover-demo.zip)
 - Get into groups of 3. Present your work to each other. Answer and record these questions from your classmates:<br>
 1. What is the first thing you want to do when you land on the website?
@@ -60,6 +60,7 @@ date_range:       2/06 – 2/09
 6. In terms of formal art/design concepts (typography, layout, scale, color, texture, rhythm) what is working? What could be improved upon?
 7. Is the site easy to navigate? Based on our presentation about navigation on Tuesday, is there enough information for the user?
 8. Any last comments about the experience?
+
 ---
 
 
