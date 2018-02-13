@@ -7,7 +7,7 @@ date_range:       2/13 – 2/16
 ### Tuesday, Studio
 
 - Emil presents on [*Junkspace by Rem Koolhaas*](../assets/readings/koolhaas-rem_junkspace.pdf) and [we discuss](https://docs.google.com/document/d/12_JacuGEUpTDO25msRLLNI9O36-7V96V8LTu1NQ0lfg/edit?usp=sharing)
-- Online type workshop, [download this file](https://www.dropbox.com/s/iz2dj8zik55z7l1/type-tutorial.zip?dl=0)
+- Online type workshop, [download this file](../assets/lectures/studio/type-tutorial.zip)
 - Fav icons. What are they?
 - For the rest of the class, design your favicon and meet with me regarding your project.
 
