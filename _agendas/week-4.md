@@ -14,4 +14,3 @@ date_range:       2/13 – 2/16
 
 ### Homework
 - Finish Click, Click. Come to class with it online and be prepared to present it.
----
