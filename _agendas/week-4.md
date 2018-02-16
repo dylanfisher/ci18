@@ -40,17 +40,17 @@ date_range:       2/13 – 2/16
 
 ### Friday, Studio
 
-- Guest critic, Seth Hoekstra
+- Guest critic, [Seth Hoekstra](http://www.sethhoekstra.com/)
 - Presentation order:<br/>
-seowon<br/>
-emily<br/>
-prithi<br/>
-emil<br/>
-shuting<br/>
-evelin<br/>
-kristen<br/>
-yangchen<br/>
-jahyun<br/>
-esra<br/>
-soyeon<br/>
-vincent
+Seowon<br/>
+Emily<br/>
+Prithi<br/>
+Emil<br/>
+Shuting<br/>
+Evelin<br/>
+Kristen<br/>
+Yangchen<br/>
+Jahyun<br/>
+Esra<br/>
+Soyeon<br/>
+Vincent
