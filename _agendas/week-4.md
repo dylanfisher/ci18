@@ -36,3 +36,21 @@ date_range:       2/13 – 2/16
 - Yaren and Vincent start next class with weekly interest.
 
 ---
+
+
+### Friday, Studio
+
+- Guest critic, Seth Hoekstra
+- Presentation order:<br/>
+seowon<br/>
+emily<br/>
+prithi<br/>
+emil<br/>
+shuting<br/>
+evelin<br/>
+kristen<br/>
+yangchen<br/>
+jahyun<br/>
+esra<br/>
+soyeon<br/>
+vincent
