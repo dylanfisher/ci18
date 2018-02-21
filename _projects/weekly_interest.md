@@ -25,7 +25,7 @@ ongoing:          true
 - Prithi Khalique
 - Ho Yau Chik
 - Evelin Susan Fung Zhong
-- Militza Asuncion Rodriguez Charr
+- Shuting Guo
 - Vincent Privitera
 - Soyeon Kim
 - Yangchen Gruben

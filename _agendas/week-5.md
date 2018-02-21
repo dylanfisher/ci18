@@ -18,3 +18,31 @@ date_range:       2/20 – 2/23
 - [Negotiating the Archive, Sue Breakell](http://www.tate.org.uk/download/file/fid/7288) reading presentation by volunteer and [discussion question](https://docs.google.com/document/d/1INK3o5mo5eSZrryAf0ItaZ7Yz4f3yDxJsE-mfCI8q0I/edit?usp=sharing) for other students.
 
 ---
+
+### Wednesday, Lab
+
+- Yaren and Vincent share weekly interest.
+- Exercise: [Coding from Life](/lectures/lab/coding-from-life)
+
+### Homework
+
+If you did not finish the drawings in class, or you'd like to spend more time working on them, take a photo of the still life and complete it at home. If you weren't in class this week you'll need to create a still life of your own.
+
+Create an archive of all the drawings completed in class, both your own drawings and the two drawings from each other student.
+You can find each project from the [students](/students) page, in their github repos.
+
+Store this archive in the your github projects directory, e.g. at this path `projects/coding-from-life-archive`. Your archives should consist
+of a `index.html` and `main.css`, just like the Coding from Life sketches in the starter kit.
+
+Your archives should link to each drawing directly. For example, if I had created a drawing, you would link to `http://fisherdm.github.io/projects/coding-from-life/sketch-1/index.html`.
+
+You should consider how you choose to organize the drawings. Is it alphabetically, chronologically, by color, random, or something else?
+
+You should consider how you display the drawings. Is it with an image of the sketch, or a more abstract representation of the sketch, or just text?
+
+Once your archive is complete and correctly linked to each student's sketch, add a new link to your github pages home page page linking to the
+archive, and to your two sketches.
+
+### Weekly Interest
+
+- Esra and Prithi start next class with weekly interest.
