@@ -47,6 +47,7 @@ archive, and to your two sketches.
 
 - Esra and Prithi start next class with weekly interest.
 
+---
 
 ### Friday, Studio
 
