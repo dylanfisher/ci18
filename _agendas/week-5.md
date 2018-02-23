@@ -46,3 +46,21 @@ archive, and to your two sketches.
 ### Weekly Interest
 
 - Esra and Prithi start next class with weekly interest.
+
+
+### Friday, Studio
+
+- Click, Click presentations from: Yangchen
+- Seowon presents on Negotiating the Archive, Sue Breakell with class discussion
+- Students present their homework
+- Lecture: [wireframes and userflows](assets/lectures/lecture-5_user-flows.pdf)
+
+### Homework
+- Decide on your topic based on the feedback from class.
+- Assess what types of assets you’ll need to populate your project.
+- Research methods of content: i.e are you using photos? If so, what do they look like? Where will they be shot? What is the lighting like? Are they in color? Or will you scan your materials?
+- Begin gathering your materials and have about 5 pieces to show
+- Create a userflow and wireframe for your project
+- Start designing one page for your project. Have 3 different versions of it.
+- Everything should be uploaded in InVision at the start of class.
+- Reading, [Research and Destroy by Daniel van der Velden (Metahaven)](http://ci.nikasimovich.com/assets/readings/van-der-Velden-research-and-destroy.pdf). Volunteer for reading presentation, rest do [discussion question](https://docs.google.com/document/d/17qaDJ-63a4HEzbuKLB1z72mSGJlAoUhAZLSG3GV3cbs/edit?usp=sharing)
