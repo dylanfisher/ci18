@@ -53,7 +53,7 @@ archive, and to your two sketches.
 - Click, Click presentations from: Yangchen
 - Seowon presents on Negotiating the Archive, Sue Breakell with class discussion
 - Students present their homework
-- Lecture: [wireframes and userflows](assets/lectures/lecture-5_user-flows.pdf)
+- Lecture: [wireframes and userflows](../assets/lectures/lecture-5_user-flows.pdf)
 
 ### Homework
 - Decide on your topic based on the feedback from class.
