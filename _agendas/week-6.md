@@ -14,4 +14,5 @@ date_range:       2/27 – 3/02
 - Start generating your archive assets
 - Begin exploring the design of your website. Assemble an InVision presentation that includes references and inspiration, as well as a first pass at all your pages.
 - If we don&rsquo;t finish in class, watch [The Internet with a Human Face](https://www.youtube.com/watch?v=fWFo1VaQNmU)
+
 ---
