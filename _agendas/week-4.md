@@ -37,7 +37,6 @@ date_range:       2/13 – 2/16
 
 ---
 
-
 ### Friday, Studio
 
 - Guest critic, [Seth Hoekstra](http://www.sethhoekstra.com/)
