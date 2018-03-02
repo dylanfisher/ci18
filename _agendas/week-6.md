@@ -35,3 +35,13 @@ date_range:       2/27 – 3/02
 - Kristen and Evelin start next class with weekly interest.
 
 ---
+
+### Friday, Studio
+
+- Individual meetings and work session in class. Try to get as much of your design complete as possible.
+
+### Homework
+- Have a complete draft of your archived materials
+- Bring in a complete draft of the desktop version of your website to class, revised based on your feedback from Friday
+
+---
