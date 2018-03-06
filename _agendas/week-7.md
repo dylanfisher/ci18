@@ -15,6 +15,3 @@ date_range:       3/05 – 3/09
 - Continue working on your projects, come to class with a revised version that includes what it looks like on mobile. All should be uploaded to InVision at the start of class.
 
 ---
-
-
----
