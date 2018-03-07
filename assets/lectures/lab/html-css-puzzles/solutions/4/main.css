@@ -1,0 +1,37 @@
+/* Your styles go here */
+
+.container,
+.cell {
+  position: absolute;
+}
+
+.container {
+  background-color: #00BCD7;
+  width: 33.33%;
+  height: 20%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.cell {
+  background-color: #3F4DB9;
+  width: 15%;
+  height: 33.33%;
+}
+
+.top {
+  top: 0;
+}
+
+.bottom {
+  bottom: 0;
+}
+
+.left {
+  left: 0;
+}
+
+.right {
+  right: 0;
+}

@@ -1,0 +1,38 @@
+/* Your styles go here */
+
+body {
+  margin: 0;
+}
+
+.cell {
+  width: 33.33%;
+  height: 33.33%;
+  position: absolute;
+  background-color: #CBDF1F;
+}
+
+.cell-dark {
+  background-color: #607D8D;
+}
+
+.top {
+  top: 0;
+}
+
+.bottom {
+  bottom: 0;
+}
+
+.left {
+  left: 0;
+}
+
+.right {
+  right: 0;
+}
+
+.middle {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

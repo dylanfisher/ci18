@@ -1,0 +1,39 @@
+body {
+  font-family: 'Krona One', sans-serif;
+  margin: 20px 20px;
+}
+
+h1 {
+  font-size: 30px;
+  letter-spacing: 2px;
+  line-height: 1.4;
+  margin: 0;
+}
+
+span {
+  color: red;
+}
+
+.regular {
+  font-family: sans-serif;
+  font-size: 12px;
+  color: #000000;
+  margin: 0;
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+
+@media (min-width: 992px) {
+  body {
+    margin: 20px 40px;
+  }
+
+  h1 {
+    font-size: 80px;
+  }
+
+  .regular {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+}

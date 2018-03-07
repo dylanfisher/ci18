@@ -5,6 +5,52 @@ section:          Lab
 hidden:           true
 ---
 
+### Results
+
+<table style="margin: 0 0 5px;">
+  {% assign github_username = 'funge549.github.io' %}
+  {% assign url_base = '/html-css-puzzles/puzzle-' %}
+  <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
+  <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>
+</table>
+
+<table style="margin: 0 0 5px;">
+  {% assign github_username = 'esragumrukculer.github.io' %}
+  {% assign url_base = '/html-css-puzzles/puzzle-' %}
+  <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
+  <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>
+</table>
+
+<table style="margin: 0 0 5px;">
+  {% assign github_username = 'kims889.github.io' %}
+  {% assign url_base = '/html-css-puzzles/puzzle-' %}
+  <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
+  <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>
+</table>
+
+<table style="margin: 0 0 5px;">
+  {% assign github_username = 'seowxx.github.io' %}
+  {% assign url_base = '/7_html-css-puzzles/puzzle-' %}
+  <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
+  <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>
+</table>
+
+<table style="margin: 0 0 5px;">
+  {% assign github_username = 'lie771.github.io' %}
+  {% assign url_base = '/html-css-puzzles/puzzle-' %}
+  <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
+  <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>
+</table>
+
+<table style="margin: 0 0 5px;">
+  {% assign github_username = 'walde906.github.io' %}
+  {% assign url_base = '/html-css-puzzles/puzzle-' %}
+  <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
+  <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>
+</table>
+
+---
+
 ### Instructions
 
 1. Download the [starter kit](/assets/lectures/lab/html-css-puzzles/html-css-puzzles.zip).

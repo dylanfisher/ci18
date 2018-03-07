@@ -1,0 +1,53 @@
+.color {
+  transition: all 1s;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  min-height: 100%;
+}
+
+body {
+  border: 25px solid #2D2C64;
+  box-sizing: border-box;
+}
+
+.color1 {
+  height: 60%;
+  background-color: #3D0E1E;
+}
+
+.color2 {
+  height: 15%;
+  background-color: #3658B9;
+}
+
+.color3 {
+  height: 25%;
+  background-color: #3C385E;
+}
+
+@media (min-width: 992px) {
+  body {
+    border: 50px solid #C94923;
+    box-sizing: border-box;
+  }
+
+  .color1 {
+    height: 40%;
+    background-color: #FCBB1D;
+  }
+
+  .color2 {
+    height: 20%;
+    background-color: #DBCBC5;
+  }
+
+  .color3 {
+    height: 40%;
+    background-color: #171A1F;
+  }
+}

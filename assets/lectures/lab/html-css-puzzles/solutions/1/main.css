@@ -1,0 +1,15 @@
+/* Your styles go here */
+
+body {
+  font-family: sans-serif;
+  font-size: 24px;
+}
+
+.box {
+  display: inline-block;
+  background-color: #D0D8DD;
+  line-height: 1;
+  margin-right: 4px;
+  margin-bottom: 10px;
+  padding: 30px;
+}

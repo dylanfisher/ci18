@@ -1,0 +1,37 @@
+/* Your styles go here */
+
+.card {
+  margin: 15px;
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+.card-title {
+  font-family: sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.card-author {
+  font-family: monospace;
+  font-size: 16px;
+  margin-top: 1em;
+}
+
+@media (min-width: 800px) {
+  .card {
+    margin: 25px;
+    padding: 20px;
+  }
+
+  .card-title {
+    font-size: 36px;
+  }
+
+  .card-author {
+    font-size: 20px;
+  }
+}
