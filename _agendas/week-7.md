@@ -33,3 +33,11 @@ date_range:       3/05 – 3/09
 - Shuting and Vincent start next class with weekly interest.
 
 ---
+
+### Friday, Studio
+
+- Individual meetings
+
+### Homework
+
+- Continue working on your project and start programming it.
