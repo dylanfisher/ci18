@@ -1,5 +1,5 @@
 ---
-title:            Week 7
+title:            Week 8
 start_date:       2018-02-20 00:00:00 -0500
 date_range:       3/12 – 3/16
 ---
