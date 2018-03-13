@@ -10,7 +10,7 @@ date_range:       3/12 – 3/16
 - Try [Boxify widget](https://mattwolff.github.io/interactive/boxify)
 - Observe [Media Queries](https://mediaqueri.es/)
 - [Viewport Units for type](https://css-tricks.com/fun-viewport-units/)
-- [Responsive design without media queries](assets/lectures/studio/responsive-intro.zip)
+- [Responsive design without media queries](../assets/lectures/studio/responsive-intro.zip)
 - Creating a prototype in InVision
 - Observe [user testing lecture](assets/lectures/lecture-7_user-testing.pdf)
 - User testing activity
