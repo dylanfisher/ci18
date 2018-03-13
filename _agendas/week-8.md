@@ -6,7 +6,7 @@ date_range:       3/12 – 3/16
 
 ### Tuesday, Studio
 
-- Observe [Responisve Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html
+- Observe [Responisve Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
 - Try [Boxify widget](https://mattwolff.github.io/interactive/boxify)
 - Observe [Media Queries](https://mediaqueri.es/)
 - [Viewport Units for type](https://css-tricks.com/fun-viewport-units/)
