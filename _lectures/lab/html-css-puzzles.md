@@ -8,6 +8,13 @@ hidden:           true
 ### Results
 
 <table style="margin: 0 0 5px;">
+  {% assign github_username = 'chikh538.github.io' %}
+  {% assign url_base = '/html-css-puzzles/puzzle-' %}
+  <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
+  <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>
+</table>
+
+<table style="margin: 0 0 5px;">
   {% assign github_username = 'funge549.github.io' %}
   {% assign url_base = '/html-css-puzzles/puzzle-' %}
   <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
@@ -19,6 +26,25 @@ hidden:           true
   {% assign url_base = '/html-css-puzzles/puzzle-' %}
   <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
   <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>
+</table>
+
+<table style="margin: 0 0 5px;">
+  {% assign github_username = 'kayaa946.github.io' %}
+  {% assign url_base = '/puzzle-' %}
+  <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
+  <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>
+</table>
+
+<table style="margin: 0 0 5px;">
+  <td style="width: 50%; padding: 10px;">khalp570.github.io</td>
+  <td style="width: 50%; padding: 10px;">
+    <a href="http://khalp570.github.io/html-css-puzzles/puzzle-1/puzzle1.html">1,</a>
+    <a href="http://khalp570.github.io/html-css-puzzles/puzzle-2/index.html">2,</a>
+    <a href="http://khalp570.github.io/html-css-puzzles/puzzle-3/index.html">3,</a>
+    <a href="http://khalp570.github.io/html-css-puzzles/puzzle-4/index.html">4,</a>
+    <a href="http://khalp570.github.io/html-css-puzzles/puzzle-5/index.html">5,</a>
+    <a href="http://khalp570.github.io/html-css-puzzles/puzzle-6/index.html">6</a>
+  </td>
 </table>
 
 <table style="margin: 0 0 5px;">
@@ -36,7 +62,28 @@ hidden:           true
 </table>
 
 <table style="margin: 0 0 5px;">
+  {% assign github_username = 'leej312.github.io' %}
+  {% assign url_base = '/lab/html-css-puzzles/puzzle-' %}
+  <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
+  <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>
+</table>
+
+<table style="margin: 0 0 5px;">
   {% assign github_username = 'lie771.github.io' %}
+  {% assign url_base = '/html-css-puzzles/puzzle-' %}
+  <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
+  <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>
+</table>
+
+<table style="margin: 0 0 5px;">
+  {% assign github_username = 'kmpnguyen0.github.io' %}
+  {% assign url_base = '/Lab/html-css-puzzles/puzzle-' %}
+  <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
+  <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>
+</table>
+
+<table style="margin: 0 0 5px;">
+  {% assign github_username = 'privv824.github.io' %}
   {% assign url_base = '/html-css-puzzles/puzzle-' %}
   <td style="width: 50%; padding: 10px;">{{ github_username }}</td>
   <td style="width: 50%; padding: 10px;">{% for num in (1..6) %}<a href="http://{{ github_username }}{{ url_base }}{{ forloop.index }}">{{ forloop.index }}</a>{% unless forloop.index == 6 %}, {% endunless %}{% endfor %}</td>

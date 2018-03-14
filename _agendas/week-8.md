@@ -23,3 +23,15 @@ date_range:       3/12 – 3/16
 - Reading: [Frank Chimero, The Web&rsquo;s Grain](https://frankchimero.com/writing/the-webs-grain/). Reading presentation by volunteer, [discussion question](https://docs.google.com/document/d/1-v9-OHzg-NIyLYAKzptaTL7eM9trWpkw206ygsiV1ps/edit?usp=sharing) for everyone else.
 
 ---
+
+### Wednesday, Lab
+
+- Kristen and Evelin share weekly interest.
+- Discuss [HTML/CSS Puzzles](/lectures/lab/html-css-puzzles) exercise and compare solutions.
+- Studio project worktime: continue programming Obsessions project
+
+### Weekly Interest
+
+- Shuting and Vincent start next class with weekly interest.
+
+---
