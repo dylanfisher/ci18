@@ -23,6 +23,7 @@ categories:       Studio Lab
 The goals of this project are to work with a multiplicity of items and learn to create a seamless and coherent story using your design. Unlike the previous project, Obsessions requires designer&rsquo;s to use a visual component and to examine all the factors that go into making something consistent in many different ways. Additionally, the project introduces students to metadata and asks them to begin thinking about how to use additional information to add a memorable layer of content to the project. Lastly, the project asks students to examine their own interests and aesthetics and to apply it to a project. The best projects will go beyond what&rsquo;s literally being asked of them and take on their own twist! Remember my book report comment and try to make something meaningful to you that doesn&rsquo;t just satisfy the requests of the assignment verbatim.
 
 ##Technical Requirements
+
 1. Website must be responsive work on a variety of screen sizes. The mobile view should feel considered and add to the story.
 2. Archive must change in some way with interaction.
 

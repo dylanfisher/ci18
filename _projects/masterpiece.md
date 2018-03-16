@@ -18,6 +18,7 @@ It is also a quick turn around project, which forces students to think and itera
 
 
 ##Technical Requirements
+
 1. Website must be responsive.
 2. Website should be one page only.
 
