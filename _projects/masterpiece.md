@@ -14,16 +14,16 @@ categories:       Studio Lab
 ### Goals
 
 The goal of this project is to consider how the act of reproducing an existing artwork can affect the artwork itself. It is also an exploration in using existing content rather than generating your own, and to investigate the role of the designer in curating the content.
-It is also a quick turn around project, which forces students to think and iterate quickly.
+It is also a quick turn around project, which forces you to think and iterate quickly.
 
 
 ##Technical Requirements
 
 1. Website must be responsive.
-2. Website should be one page only.
+2. Website should be a single page.
 
 ### Deadlines
 
-This is a mini-project, meaning we're going to spend very little time on it. I'd like you to try to work quickly, experiment, and have fun. This will be due April 10th.
+Project will be due April 10th. (Shorter assignment)
 
 ---
