@@ -13,6 +13,6 @@ date_range:       3/26 – 3/30
 
 ### Homework
 
-- Listen to the podcast, [Good Point episode 52 - Reproduction](https://soundcloud.com/goodpoint/52-reproduction)
+- Listen to the podcast, [Good Point episode 53 - Aesthetics](https://soundcloud.com/goodpoint/53-aesthetics)
 - [Discussion question](https://docs.google.com/document/d/16WVTJlKeuprNQj4uEs7WRCDQdtYyoxJusAD5Yw6d94I/edit?usp=sharing)
 - Vincent Garcia presents on the above
