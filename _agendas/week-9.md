@@ -29,3 +29,12 @@ date_range:       3/26 – 3/30
 - Soyeon and Yangchen start next class with weekly interest.
 
 ---
+
+### Tuesday, Studio
+
+- Reading presentation from Vincent Garcia and [discussion](https://docs.google.com/document/d/16WVTJlKeuprNQj4uEs7WRCDQdtYyoxJusAD5Yw6d94I/edit?usp=sharing)
+- Individual meetings for Obsessions
+
+### Homework
+
+- Finish the project and be ready to present. Your work must be online at the start of class on Tuesday.
