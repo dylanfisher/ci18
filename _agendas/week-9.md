@@ -30,7 +30,7 @@ date_range:       3/26 – 3/30
 
 ---
 
-### Tuesday, Studio
+### Friday, Studio
 
 - Reading presentation from Vincent Garcia and [discussion](https://docs.google.com/document/d/16WVTJlKeuprNQj4uEs7WRCDQdtYyoxJusAD5Yw6d94I/edit?usp=sharing)
 - Individual meetings for Obsessions
