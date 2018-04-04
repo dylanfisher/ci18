@@ -1,6 +1,6 @@
 ---
 title:            Week 10
-start_date:       2018-03-26 00:00:00 -0500
+start_date:       2018-04-03 00:00:00 -0500
 date_range:       4/3 – 4/6
 ---
 
@@ -15,3 +15,7 @@ date_range:       4/3 – 4/6
 
 ---
 
+### Wednesday, Lab
+
+- Project presentations from: Shuting, Vincent, Yangchen, Soyeon, Esra, Kristen, Vinny.
+- Guest critic: Cheyanne Proud
