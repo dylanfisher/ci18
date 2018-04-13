@@ -36,3 +36,28 @@ Divide into groups of 3 or 4. Create a new HTML file and create a link to a main
 
 - Khe starts next class with weekly interest.
 - Prepare for next week’s in-class javascript quiz by reviewing the [JavaScript Introduction](/lectures/lab/javascript-introduction) lecture and reading the “Read more” links at the bottom of each section.
+
+---
+
+### Friday, Studio
+
+- Emily presents on Chimero reading and we [discuss](https://docs.google.com/document/d/1jW_qhSsflUgpyhmWnKi76KhBRaVJelRpCTCY_HYA25Y/edit?usp=sharing)
+- How do you present interactive work?
+  - [Example 1: mix of still and video](http://wax-studios.com/projects/arper_website), and [mix of long images and video](http://www.hugoandmarie.com/studio/cienne/)
+  - [Example 2: video in use](https://www.studiomoniker.com/projects/ik-durf-niet-te-zeggen-dat),
+  - [Example 3: interactive composition with screengrabs](http://office.adrianaramic.com/),
+  - [Example 4: quick demo video](https://www.roandcostudio.com/#3),
+  - [Example 5: quick demo video](http://www.andrewherzog.com/index.html),
+  - [Example 6: Abstracted compositions](http://allanyu.nyc/),
+  - [Example 7: Videos with text and images](http://2017.matthewboblet.com/),
+  - [Example 8: Screenshots](http://www.projectprojects.com/projects/types/web),
+  - [Example 9: Part of a Brand Story](http://www.projectprojects.com/projects/types/web)
+- Quicktime video example, [Principle](http://principleformac.com/) and [Flinto](https://www.flinto.com/) are a good tools for prototyping, you can also export these assets if your website never got produced.
+- Class exercise.
+  - Step 1: Partner up
+  - Step 2: Archive your partner&rsquo;s on a one page simple HTML page
+- Students present their class homepage and their partner&rsquo;s archive
+
+### Homework
+
+- Finish your masterpiece project and have it online for Tuesday morning
