@@ -49,9 +49,8 @@ Divide into groups of 3 or 4. Create a new HTML file and create a link to a main
   - [Example 4: quick demo video](https://www.roandcostudio.com/#3),
   - [Example 5: quick demo video](http://www.andrewherzog.com/index.html),
   - [Example 6: Abstracted compositions](http://allanyu.nyc/),
-  - [Example 7: Videos with text and images](http://2017.matthewboblet.com/),
-  - [Example 8: Screenshots](http://www.projectprojects.com/projects/types/web),
-  - [Example 9: Part of a Brand Story](http://www.projectprojects.com/projects/types/web)
+  - [Example 7: Screenshots](http://www.projectprojects.com/projects/types/web),
+  - [Example 8: Part of a Brand Story](http://www.projectprojects.com/projects/types/web)
 - Quicktime video example, [Principle](http://principleformac.com/) and [Flinto](https://www.flinto.com/) are a good tools for prototyping, you can also export these assets if your website never got produced. Additionally you can use quicktime to do a screen recording, or use a third party program such as [Screen Flick](https://www.araelium.com/screenflick)
 - Class exercise.
   - Step 1: Partner up
