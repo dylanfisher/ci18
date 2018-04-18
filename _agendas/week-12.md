@@ -29,3 +29,15 @@ Seowon
 
 ---
 
+### Wednesday, Lab
+
+- Khe shares weekly interest.
+- JavaScript quiz
+- Lecture: [jQuery and DOM Manipulation](/lectures/lab/jquery-and-dom-manipulation)
+- [jQuery in-class exercises](/lectures/lab/html-css-jquery-in-class-exercises)
+
+### Homework
+- Finish any remaining questions from the JavaScript quiz and email the final quiz with full answers to [fisherdm@newschool.edu](mailto:fisherdm@newschool.edu).
+- Finish the jQuery in-class exercies and post to your GitHub account.
+
+---
