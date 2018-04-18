@@ -32,7 +32,7 @@ Seowon
 ### Wednesday, Lab
 
 - Khe shares weekly interest.
-- JavaScript quiz
+- [JavaScript quiz](/lectures/lab/javascript-quiz)
 - Lecture: [jQuery and DOM Manipulation](/lectures/lab/jquery-and-dom-manipulation)
 - [jQuery in-class exercises](/lectures/lab/html-css-jquery-in-class-exercises)
 
