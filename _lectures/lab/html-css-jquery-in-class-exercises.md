@@ -123,3 +123,94 @@ $(document).on('keypress', function(e) {
   // etc.
 });
 ```
+
+### 4. Scrolling events
+
+Here's a snippet of code that will move you back to the top of the page if you reach the bottom.
+
+```javascript
+var documentHeight = $(document).height();
+var windowHeight = $(window).height();
+
+$(window).on('scroll', function() {
+  var scrollTop = $(this).scrollTop();
+
+  if ( scrollTop + windowHeight >= documentHeight ) {
+    $(window).scrollTop(0);
+  }
+});
+```
+
+Here's a snippet of code that will display a progress bar that indicates what percentage of the page you've scrolled.
+
+```javascript
+var documentHeight = $(document).height();
+var windowHeight = $(window).height();
+
+$('body').append('<div id="percentage" style="position: fixed; top: 0; left: 0; height: 30px; background-color: black;"></div>');
+
+var $percentageIndicator = $('#percentage');
+
+$(window).on('scroll', function() {
+  var scrollTop = $(this).scrollTop();
+  var percentage = scrollTop / (documentHeight - windowHeight) * 100;
+
+  console.log(percentage + '%');
+
+  $percentageIndicator.css({ width: percentage + '%' });
+});
+```
+
+Here's a snippet of code that will resize the items on the page by a factor of how much you have scrolled down the page.
+
+```javascript
+var documentHeight = $(document).height();
+var $elements = $('.sidebar > *, .page-content > *');
+
+$(window).on('scroll', function() {
+  var scrollTop = $(this).scrollTop();
+  var scaleFactor = ((scrollTop / documentHeight * 4) % 1.5) + 0.2;
+
+  console.log('scaleFactor', scaleFactor);
+
+  $elements.css({ transform: 'scale(' + scaleFactor + ')' });
+});
+
+```
+
+### 5. Click events
+
+Here's a snippet of code that will remove any items on the page when you click them.
+
+```javascript
+$(document).on('click', function(event) {
+  // All javascript event handlers give you information about the event type in the event argument.
+  console.log(event);
+
+  // event.preventDefault() will prevent the default click event from happening in the browser.
+  // This makes it so that clicking a link doesn't actually go to that link.
+  event.preventDefault();
+
+  // You can refer to items on the event object, such as the target, which represents
+  // the individual DOM element you clicked.
+  var $clickTarget = $(event.target);
+
+  $clickTarget.remove();
+});
+```
+
+This snippet of code is similar, but it will scale the element you click randomly each time you click it.
+
+```javascript
+$(document).on('click', function(event) {
+  event.preventDefault();
+
+  var $clickTarget = $(event.target);
+
+  $clickTarget.css({ transform: 'scale(' + randomNumber(0.5, 1.5) + ')' });
+
+  function randomNumber(min, max) {
+    return Math.random() * (max - min) + min;
+  }
+});
+```
