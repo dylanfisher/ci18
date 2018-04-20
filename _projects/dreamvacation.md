@@ -22,13 +22,12 @@ In addition, the website should have a differentiated experience on mobile than 
 
 
 ### Deadlines
-April 25: 3 concepts for the project, with research, mood boards and visual references on what you're going for and a quick sketch of the homepage for each direction. (Deliverable: an Invision presentation with 3 completely different ideas, references, and sketches of the homepage.)<br>
-April 28: Revised concept with 3 different design directions/initial sketches (Homepage and 1 supporting page for each sketch)<br>
-May 2: Finalized design due fully fleshed out based on feedback<br>
-May 3: Lab work day<br>
-May 5: Studio work day, continue with programming<br>
-May 9: Studio work day, continue with programming<br>
-May 10: Lab work day<br>
-May 12: Final presentations
+April 24: 3 concepts for the project, with research, mood boards and visual references on what you're going for and a quick sketch of the homepage for each direction. (Deliverable: an Invision presentation with 3 completely different ideas, references, and sketches of the homepage.)<br>
+April 27: Revised concept with 3 different design directions/initial sketches (Homepage and 1 supporting page for each sketch)<br>
+May 1: Finalized design due fully fleshed out based on feedback<br>
+May 4: Studio work day, continue with programming<br>
+May 8: Studio work day, continue with programming<br>
+May 9: Final Presentations (maybe)
+May 11: Final presentations
 
 

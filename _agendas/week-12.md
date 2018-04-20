@@ -49,4 +49,5 @@ Seowon
 - Finish reviewing Obsessions partner [archives](https://docs.google.com/document/d/1M3KqzYSEKDu02xpdxtALPO4nBmd5sSxLI8oknb-gRdA/edit?usp=sharing)
 
 ### Homework
-- Read this article on [Susan Kare](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile) and answer a discussion quesiton. Prithi please on this and on Susan Kare
+- Read this feature on [Susan Kare](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile) and complete a [discussion quesiton](https://docs.google.com/document/d/1ACodHdcvmDyiSaXmBb6guM3oUMm0EJr_3q_oVrVXD-g/edit?usp=sharing). Prithi please on this and on Susan Kare
+- April 24: 3 concepts for the project, with research, mood boards and visual references on what you're going for and a quick sketch of the homepage for each direction. (Deliverable: an Invision presentation with 3 completely different ideas, references, and sketches of the homepage.)<br>
