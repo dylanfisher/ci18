@@ -41,3 +41,12 @@ Seowon
 - Finish the jQuery in-class exercies and post to your GitHub account.
 
 ---
+
+### Friday, Studio
+
+- Introduce [Dream Vacation](/projects/dreamvacation)
+- Dream Vacation [presentation](/assets/lectures/dream-vacation.pdf)
+- Finish reviewing Obsessions partner [archives](https://docs.google.com/document/d/1M3KqzYSEKDu02xpdxtALPO4nBmd5sSxLI8oknb-gRdA/edit?usp=sharing)
+
+### Homework
+- Read this article on [Susan Kare](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile) and answer a discussion quesiton. Prithi please on this and on Susan Kare
