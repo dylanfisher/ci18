@@ -1,6 +1,6 @@
 ---
 title:            Week 13
-start_date:       2018-04-16 00:00:00 -0500
+start_date:       2018-04-24 00:00:00 -0500
 date_range:       4/24 – 4/27
 ---
 
@@ -18,3 +18,14 @@ date_range:       4/24 – 4/27
 - Yangchen is discussion leader, everyone else please [read What is Code by Paul Ford](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) and post a [question](https://docs.google.com/document/d/1yelAV-Etvn9qG8Pfjezel0LMnHYFZlk0rTlHygOu10c/edit?usp=sharing).
 
 ---
+
+### Wednesday, Lab
+
+- Discuss jQuery exercises and share examples
+- In-class excercise: [Quick Prototyping](/lectures/lab/quick-prototyping)
+- Individual reviews to discuss Dream Vacation projects
+
+### Homework
+
+- Finish Quick Prototyping excercises and begin programming Dream Vacation projects. We will
+  begin reviewing your Dream Vacation code next week.
