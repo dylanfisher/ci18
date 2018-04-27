@@ -29,3 +29,17 @@ date_range:       4/24 – 4/27
 
 - Finish Quick Prototyping excercises and begin programming Dream Vacation projects. We will
   begin reviewing your Dream Vacation code next week.
+
+---
+
+### Friday, Studio
+
+- Hear from Yangchen and discuss Paul Ford reading
+- Screening: [Sulki and Min Choi](https://www.youtube.com/watch?v=2pHsnavgw3U)
+- Announcement regarding guest critics
+- Individual meetings
+
+### Homework
+- Have a complete draft of your design for Tuesday&rsquo;s class
+
+
