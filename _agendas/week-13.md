@@ -41,5 +41,6 @@ date_range:       4/24 – 4/27
 
 ### Homework
 - Have a complete draft of your design for Tuesday&rsquo;s class
+- Soyeon is the discussion leader. Others read [Karel Martens, What Design Means for Me](http://ci.nikasimovich.com/assets/readings/martens-karel_what-design-means-to-me.pdf) and post a [comment/question](https://docs.google.com/document/d/1ZJmXpzXnTkLVWotGm_QB0O0TWRXRn8fcB4FyzsOZwrM/edit?usp=sharing)
 
 
