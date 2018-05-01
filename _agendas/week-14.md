@@ -7,7 +7,7 @@ date_range:       4/24 – 4/27
 ### Tuesday, Studio
 
 - Soyeon presents on [Karel Martens, What Design Means for Me](http://ci.nikasimovich.com/assets/readings/martens-karel_what-design-means-to-me.pdf) and we [discuss](https://docs.google.com/document/d/1ZJmXpzXnTkLVWotGm_QB0O0TWRXRn8fcB4FyzsOZwrM/edit?usp=sharing)
-- Quick demo on prototyping in Sketch. Links, Hot Spots and Sketch Cloud. [Follow along](/assets/lectures/prototyping.sketch.zip) or observe.
+- Quick demo on prototyping in Sketch. Links, Hot Spots and Sketch Cloud.
 - Individual meetings
 
 ### Homework
