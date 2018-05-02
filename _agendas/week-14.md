@@ -1,7 +1,7 @@
 ---
 title:            Week 14
-start_date:       2018-04-24 00:00:00 -0500
-date_range:       4/24 – 4/27
+start_date:       2018-05-01 00:00:00 -0500
+date_range:       5/1 – 5/4
 ---
 
 ### Tuesday, Studio
@@ -14,5 +14,15 @@ date_range:       4/24 – 4/27
 
 - Continue finalizing your sketch and come prepared to tomorrow&rsquo;s lab class with questions
 - Khe is discussion leader for Friday. Please read [Interview with Luna Maurer of Studio Moniker](https://thecreativeindependent.com/people/luna-maurer-on-being-a-designer/) and write [discussion question](https://docs.google.com/document/d/1S7MDopFrxd6r6ZaYcj98gVJOvrBDV7yMsaJin5povhE/edit?usp=sharing)
+
+---
+
+### Wednesday, Lab
+
+- Dream Vacation programming review and workshop time
+
+### Homework
+
+- Continue programming Dream Vacation. Identify technical challenges to focus on during next week's class.
 
 ---
