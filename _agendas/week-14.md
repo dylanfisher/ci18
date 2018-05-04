@@ -26,7 +26,6 @@ date_range:       5/1 – 5/4
 - Continue programming Dream Vacation. Identify technical challenges to focus on during next week's class.
 
 ---
----
 
 ### Friday, Studio
 
