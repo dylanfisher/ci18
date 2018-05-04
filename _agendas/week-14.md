@@ -26,3 +26,16 @@ date_range:       5/1 – 5/4
 - Continue programming Dream Vacation. Identify technical challenges to focus on during next week's class.
 
 ---
+---
+
+### Friday, Studio
+
+- Hear from Khe about Luna Maurer and we discuss
+- Work day. Work in small groups
+
+### Homework
+
+- Continue programming Dream Vacation.
+- Kristen and Shuting are our final disussion leaders. Please present on James Bridle and present on these two readings. [Kristen](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2) and [Shuting](https://www.theguardian.com/artanddesign/2014/jun/18/-sp-why-digital-art-matters)
+
+---
