@@ -16,3 +16,14 @@ date_range:       5/7 – 5/12
 - Have all your projects linked from your class homepage
 
 ---
+
+### Friday, Studio
+
+- Final Crit: critics Carly and Nicky from Hawraf
+- We're going around the room starting with Emil
+
+### Homework
+
+- Have a good summer
+
+---
